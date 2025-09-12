@@ -1,0 +1,2586 @@
+[
+  {
+    "claim": "The Messiah will be born of a virgin.",
+    "category": "birth_circumstances",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 7,
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 1,
+        "verse_start": 22,
+        "verse_end": 23,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah foretells that a virgin will conceive and bear a son named Immanuel, meaning 'God with us.' The Gospel of Matthew explicitly states that the virginal conception of Jesus by the Holy Spirit fulfilled this very prophecy. This confirmed both the unique nature of His birth and His divine identity as God dwelling among humanity.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:04.889901"
+  },
+  {
+    "claim": "The Messiah will begin his public ministry in the region of Galilee.",
+    "category": "geographic_locations",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 9,
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 4,
+        "verse_start": 12,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah prophesied that a great light would dawn upon the people living in darkness in the lands of Zebulun and Naphtali, an area later known as Galilee. Matthew's Gospel quotes this passage directly when describing Jesus moving to Capernaum in Galilee to begin his ministry. This fulfillment highlights that the Messiah's light would shine even in regions considered spiritually dark or peripheral.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.032967"
+  },
+  {
+    "claim": "The Messiah will be a divine King whose government and peace will have no end.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 9,
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 32,
+        "verse_end": 33,
+        "fulfillment_type": "inaugurated"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah ascribes divine titles to the coming child-ruler: 'Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.' The angel Gabriel's announcement to Mary affirmed that Jesus' kingdom would have no end, fulfilling the promise of an eternal throne. Christ's titles and eternal reign confirm His divine nature as prophesied by Isaiah.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.170791"
+  },
+  {
+    "claim": "The Messiah will descend from Jesse and be uniquely empowered by the Spirit of the LORD.",
+    "category": "genealogy_lineage",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 11,
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 3,
+        "verse_start": 16,
+        "verse_end": 17,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah prophesies a 'shoot from the stump of Jesse,' indicating a royal descendant from David's line who will possess the fullness of God's Spirit. Jesus' genealogies confirm his descent from Jesse's son, King David. At Jesus' baptism, the Holy Spirit descended upon Him in a visible way, anointing and empowering Him for the messianic ministry foretold in this passage.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.312761"
+  },
+  {
+    "claim": "A messenger will prepare the way for the Messiah's arrival.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 40,
+      "verse_start": 3,
+      "verse_end": 5
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Mark",
+        "chapter": 1,
+        "verse_start": 2,
+        "verse_end": 4,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah speaks of a voice crying in the wilderness to 'prepare the way of the LORD' and make His paths straight. All four Gospels identify this voice as John the Baptist, who called the people to repentance in the wilderness to prepare their hearts for Jesus' coming. John's ministry was the direct and explicit fulfillment of this prophecy, heralding the arrival of the Lord.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.453868"
+  },
+  {
+    "claim": "The Messiah will have a gentle, non-confrontational character and bring justice to the nations.",
+    "category": "character_attributes",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 42,
+      "verse_start": 1,
+      "verse_end": 4
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 12,
+        "verse_start": 15,
+        "verse_end": 21,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The prophet describes God's chosen Servant as one who will not quarrel or cry out, gently caring for the weak ('a bruised reed he will not break'). The Gospel of Matthew quotes this passage at length to explain Jesus' quiet and compassionate ministry. Jesus' withdrawal from confrontation and His command for silence about His miracles demonstrated the gentle character of the Servant prophesied by Isaiah.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.593759"
+  },
+  {
+    "claim": "The Messiah will be vicariously punished for the sins of others to bring about their healing.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 53,
+      "verse_start": 4,
+      "verse_end": 6
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 Peter",
+        "chapter": 2,
+        "verse_start": 24,
+        "verse_end": 25,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah 53 vividly portrays the Suffering Servant as one who would bear our griefs, be pierced for our transgressions, and receive the punishment that brings us peace. The Apostle Peter applies this directly to Jesus, stating that Christ 'bore our sins in his body on the tree.' This fulfillment shows that Jesus' death was not a tragedy but a purposeful, substitutionary atonement for sin as foretold by the prophet.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.733532"
+  },
+  {
+    "claim": "The Messiah will remain silent before his accusers.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 53,
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 27,
+        "verse_start": 12,
+        "verse_end": 14,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah prophesied that the Servant would be oppressed and afflicted, yet he would not open his mouth, like a lamb led to the slaughter. During his trials before the chief priests and Pilate, Jesus remained silent in the face of numerous false accusations. This stoic silence fulfilled Isaiah's prophecy, demonstrating His submission to the Father's will and His role as the sacrificial Lamb of God.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.875653"
+  },
+  {
+    "claim": "Though executed as a criminal, the Messiah would be buried in a rich man's tomb.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 53,
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 27,
+        "verse_start": 57,
+        "verse_end": 60,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah prophesied the paradoxical burial of the Servant: his grave assigned with the wicked, but with a rich man in his death. This was precisely fulfilled when Jesus was crucified between two criminals, yet His body was placed in the new, unused tomb of Joseph of Arimathea, a wealthy man. This unlikely event demonstrates God's sovereign control over even the smallest details surrounding Christ's death.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:05.968005"
+  },
+  {
+    "claim": "The Messiah will be anointed by the Spirit to proclaim good news and freedom.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Isaiah",
+      "chapter": 61,
+      "verse_start": 1,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 4,
+        "verse_start": 16,
+        "verse_end": 21,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Isaiah records the Messiah's own declaration that the Spirit of the Lord is upon Him to preach good news to the poor and proclaim liberty to the captives. Jesus began His public ministry by reading this exact passage in the Nazareth synagogue and declaring, 'Today this Scripture has been fulfilled in your hearing.' In doing so, He explicitly identified Himself as the Spirit-anointed Messiah and defined His mission in the very words of the prophet.",
+    "generated_from_book": "Isaiah",
+    "created_at": "2025-09-11T13:30:06.061924"
+  },
+  {
+    "claim": "The Messiah will be declared God's divine Son and given authority over all nations.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 2,
+      "verse_start": 7,
+      "verse_end": 8
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 13,
+        "verse_start": 33,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 1,
+        "verse_start": 5,
+        "verse_end": 5,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The apostles directly applied this coronation psalm to Jesus. Paul saw its fulfillment in the resurrection, which publicly declared Jesus as the Son of God with power. The author of Hebrews quotes it to establish Christ's superiority over angels, confirming his unique status as the divine Son and heir of all things.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:03.972151"
+  },
+  {
+    "claim": "The Messiah's body would not experience decay in the grave, predicting his resurrection.",
+    "category": "resurrection_exaltation",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 16,
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 25,
+        "verse_end": 31,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 13,
+        "verse_start": 35,
+        "verse_end": 37,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "In the first sermon after Pentecost, Peter explicitly quoted this psalm, arguing that David could not have been speaking of himself, as his tomb was a known location and his body had seen decay. Peter insisted that David, as a prophet, foresaw the resurrection of the Messiah, Jesus, whose body God did not abandon to the grave or allow to undergo corruption.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:04.158639"
+  },
+  {
+    "claim": "The Messiah's hands and feet would be pierced, foreshadowing death by crucifixion.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 22,
+      "verse_start": 16,
+      "verse_end": 16
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 18,
+        "verse_end": 18,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "John",
+        "chapter": 20,
+        "verse_start": 25,
+        "verse_end": 27,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This psalm provides a vivid description of a torturous death centuries before crucifixion was widely used by the Romans. The Gospels confirm Jesus was crucified, and after His resurrection, He specifically invited Thomas to see the nail marks in His hands and the wound in His side to prove His physical return from death, directly fulfilling this prophecy.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:04.300413"
+  },
+  {
+    "claim": "Soldiers would divide the Messiah's garments and cast lots for his clothing.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 22,
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 23,
+        "verse_end": 24,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Matthew",
+        "chapter": 27,
+        "verse_start": 35,
+        "verse_end": 35,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The Gospel of John records the precise fulfillment of this detail during Jesus' crucifixion. The Roman soldiers divided His outer garments into four shares, one for each of them, but his tunic was seamless. Rather than tear it, they cast lots for it, an incidental action by pagan soldiers that perfectly fulfilled the specific words of the psalm.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:04.439770"
+  },
+  {
+    "claim": "The Messiah would be betrayed by a close and trusted friend who shared meals with him.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 41,
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 13,
+        "verse_start": 18,
+        "verse_end": 18,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Mark",
+        "chapter": 14,
+        "verse_start": 18,
+        "verse_end": 21,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "During the Last Supper, Jesus Himself quoted from this psalm to foretell His betrayal, stating, 'But the Scripture will be fulfilled, “He who eats my bread has lifted his heel against me.”' He then identified Judas Iscariot as the betrayer, a member of his inner circle who had intimately shared life and meals with him, fulfilling the prophecy's essence of betrayal by a close companion.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:04.580793"
+  },
+  {
+    "claim": "The Messiah is addressed as God, whose throne is eternal and whose rule is righteous.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 45,
+      "verse_start": 6,
+      "verse_end": 7
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Hebrews",
+        "chapter": 1,
+        "verse_start": 8,
+        "verse_end": 9,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The author of Hebrews directly quotes this passage and applies it to Christ, whom he calls the Son. In this quotation, the Father addresses the Son as 'O God,' affirming the Messiah's divine nature. The passage establishes Christ's eternal, righteous kingship, showing Him to be superior to all other created beings, including angels.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:04.721006"
+  },
+  {
+    "claim": "In His suffering, the Messiah would be offered gall and vinegar.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 69,
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 27,
+        "verse_start": 34,
+        "verse_end": 34,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 28,
+        "verse_end": 30,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy of the suffering servant was fulfilled with specificity at the crucifixion of Jesus. Matthew's gospel records that Jesus was offered wine mixed with gall to drink, a bitter anesthetic. Later, as John notes, to fulfill Scripture Jesus said He was thirsty and was then offered sour wine (vinegar) on a sponge, matching the details of the psalm.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:04.861483"
+  },
+  {
+    "claim": "The Messiah will be a King who sits at the right hand of God, exalted above all earthly rulers.",
+    "category": "resurrection_exaltation",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 110,
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 34,
+        "verse_end": 35,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 1,
+        "verse_start": 13,
+        "verse_end": 13,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This verse is one of the most frequently quoted Old Testament passages in the New Testament. Peter cites it on the day of Pentecost to prove that the resurrected Jesus, not David, ascended to heaven to sit at God's right hand in the place of supreme honor and authority. This exaltation confirms Jesus as both Lord and Christ, reigning until His enemies are made His footstool.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:05.001778"
+  },
+  {
+    "claim": "The Messiah would be a priest forever, not from the Levitical line, but in the unique order of Melchizedek.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 110,
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Hebrews",
+        "chapter": 5,
+        "verse_start": 5,
+        "verse_end": 6,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 7,
+        "verse_start": 17,
+        "verse_end": 21,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The book of Hebrews expounds on this verse to explain the superiority and permanence of Christ's high priesthood. Unlike the temporary Aaronic priests, Jesus is a high priest forever based on an unbreakable oath from God. His priesthood is of the order of Melchizedek—a king-priest who predated Levi—signifying a new and better covenant established through Christ's eternal intercession.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:05.141479"
+  },
+  {
+    "claim": "The Messiah would be rejected by the leaders of His own people but would become the essential cornerstone of God's salvation plan.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Psalms",
+      "chapter": 118,
+      "verse_start": 22,
+      "verse_end": 22
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 21,
+        "verse_start": 42,
+        "verse_end": 42,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 4,
+        "verse_start": 10,
+        "verse_end": 12,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "1 Peter",
+        "chapter": 2,
+        "verse_start": 6,
+        "verse_end": 8,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Jesus applied this prophecy to Himself when confronting the chief priests and elders, identifying them as the 'builders' who would reject Him. The apostles, especially Peter, proclaimed that Jesus, whom the Jewish leaders had crucified, was raised by God to become the cornerstone of the church. He is the foundational stone upon whom the entire structure of God's people is built and the only source of salvation.",
+    "generated_from_book": "Psalms",
+    "created_at": "2025-09-11T13:31:05.282988"
+  },
+  {
+    "claim": "The Messiah will establish a divine, eternal kingdom that will crush all earthly kingdoms and endure forever.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Daniel",
+      "chapter": 2,
+      "verse_start": 44,
+      "verse_end": 45
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 32,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Ephesians",
+        "chapter": 1,
+        "verse_start": 20,
+        "verse_end": 22,
+        "fulfillment_type": "inaugurated"
+      }
+    ],
+    "fulfillment_explanation": "Daniel prophesied a kingdom set up by God that would never be destroyed, symbolized by a stone that crushes all other kingdoms. The angel Gabriel announced to Mary that Jesus's kingdom would have no end, directly fulfilling this promise. This spiritual kingdom was inaugurated through Christ's resurrection and ascension, establishing His reign over all powers and authorities, a kingdom that continues to expand through the Church.",
+    "generated_from_book": "Daniel",
+    "created_at": "2025-09-11T13:31:37.661971"
+  },
+  {
+    "claim": "The Messiah, called the 'Son of Man', will receive everlasting dominion, glory, and an eternal kingdom over all peoples from God the Father.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Daniel",
+      "chapter": 7,
+      "verse_start": 13,
+      "verse_end": 14
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 28,
+        "verse_start": 18,
+        "verse_end": 18,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Philippians",
+        "chapter": 2,
+        "verse_start": 9,
+        "verse_end": 11,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Jesus frequently identified Himself as the 'Son of Man,' directly claiming the identity and authority described in Daniel's vision. After His resurrection, Jesus declared that all authority in heaven and on earth had been given to Him, fulfilling the vision of the Son of Man receiving dominion. Paul further confirms that God highly exalted Jesus, giving Him the name that is above every name, so that all will confess His Lordship over a universal kingdom.",
+    "generated_from_book": "Daniel",
+    "created_at": "2025-09-11T13:31:37.850626"
+  },
+  {
+    "claim": "The Messiah ('Anointed One') will be 'cut off' (killed), but not for himself, after a specific period and before the destruction of the second temple.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Daniel",
+      "chapter": 9,
+      "verse_start": 26,
+      "verse_end": 26
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Mark",
+        "chapter": 10,
+        "verse_start": 45,
+        "verse_end": 45,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "1 Peter",
+        "chapter": 3,
+        "verse_start": 18,
+        "verse_end": 18,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy specifies that the Messiah would be killed, providing a framework for the timing of his death. Jesus Christ, the Anointed One, was crucified ('cut off'), an event which occurred historically before the temple's destruction in AD 70. His death was not for any sin of His own, but was a substitutionary atonement for others, as He came 'to give his life as a ransom for many' and 'suffered once for sins, the righteous for the unrighteous.'",
+    "generated_from_book": "Daniel",
+    "created_at": "2025-09-11T13:31:38.041354"
+  },
+  {
+    "claim": "The Messiah will enter Jerusalem as a righteous and victorious King, yet He will be humble, riding on a donkey.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 9,
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 21,
+        "verse_start": 4,
+        "verse_end": 9,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "John",
+        "chapter": 12,
+        "verse_start": 12,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy was precisely fulfilled when Jesus entered Jerusalem on the week of His crucifixion. He deliberately sent His disciples to find a donkey and its colt to ride, and the Gospel of Matthew explicitly quotes Zechariah 9:9 to show that this event was the direct fulfillment of this messianic prediction.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.046803"
+  },
+  {
+    "claim": "The Messiah will be valued and betrayed for thirty pieces of silver, which will then be thrown into the Lord's house, to the potter.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 11,
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 26,
+        "verse_start": 14,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Matthew",
+        "chapter": 27,
+        "verse_start": 3,
+        "verse_end": 10,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Judas Iscariot betrayed Jesus for the exact sum of thirty pieces of silver. When Judas attempted to return the money, the chief priests refused it, so he threw it down in the temple. The priests then used that money to buy a potter's field, fulfilling every detail of Zechariah's prophecy regarding the price of the Messiah's betrayal and the ultimate destination of the money.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.187152"
+  },
+  {
+    "claim": "The people will look upon the Messiah whom they have pierced, resulting in a deep and national mourning.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 12,
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 34,
+        "verse_end": 37,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 1,
+        "verse_start": 7,
+        "verse_end": 7,
+        "fulfillment_type": "inaugurated"
+      }
+    ],
+    "fulfillment_explanation": "The Gospel of John directly quotes this prophecy after a Roman soldier pierced Jesus' side with a spear on the cross, confirming His death. This event serves as the initial, historical fulfillment. The prophecy also has a future dimension, as described in Revelation, where at Christ's second coming, every eye will see Him, the one who was pierced, leading to universal mourning and recognition.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.375465"
+  },
+  {
+    "claim": "The Messiah, God's Shepherd, will be struck down, and His followers, the sheep, will be scattered.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 13,
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 26,
+        "verse_start": 31,
+        "verse_end": 56,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Mark",
+        "chapter": 14,
+        "verse_start": 27,
+        "verse_end": 50,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "On the night of His arrest, Jesus quoted this verse from Zechariah to His disciples, predicting their imminent abandonment of Him. His words were fulfilled just hours later when He, the Shepherd, was arrested in the Garden of Gethsemane. At that moment, all of His disciples, the sheep of His flock, forsook Him and fled.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.517057"
+  },
+  {
+    "claim": "The Messiah, known as 'the Branch,' will unite the offices of King and Priest, ruling from His throne.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 6,
+      "verse_start": 12,
+      "verse_end": 13
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 32,
+        "verse_end": 33,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 8,
+        "verse_start": 1,
+        "verse_end": 2,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Jesus Christ fulfills this dual role perfectly. As a descendant of David, He is the promised royal 'Branch' who inherits the throne, establishing a kingdom that will never end. Simultaneously, the book of Hebrews presents Him as the ultimate High Priest, not from the Levitical line but after the order of Melchizedek, who sits at the right hand of God, uniting the royal and priestly functions in His one person.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.657634"
+  },
+  {
+    "claim": "At the Day of the Lord, the Messiah will stand on the Mount of Olives, the place of His ascension, to execute judgment and establish His kingdom.",
+    "category": "second_coming",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 14,
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 1,
+        "verse_start": 9,
+        "verse_end": 12,
+        "fulfillment_type": "progressive"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy points to the second coming of Christ. Its fulfillment is foreshadowed and promised in the book of Acts, where Jesus ascends to heaven from the Mount of Olives. The angels tell the disciples that He will return in the same manner and to the same location, indicating that Zechariah's prophecy will find its ultimate fulfillment when Christ's feet stand once more on that mountain to judge the world and reign as king.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.845423"
+  },
+  {
+    "claim": "A fountain will be opened for the house of David for cleansing from sin and impurity, signifying the Messiah's atoning work.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Zechariah",
+      "chapter": 13,
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 34,
+        "verse_end": 34,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "1 John",
+        "chapter": 1,
+        "verse_start": 7,
+        "verse_end": 7,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy is fulfilled through the sacrificial death of Jesus Christ. The 'fountain' is a powerful metaphor for the perpetual cleansing from sin made available through His shed blood. This is vividly typified by the blood and water that flowed from His pierced side on the cross, and affirmed in the New Testament teaching that the blood of Jesus continually cleanses believers from all sin.",
+    "generated_from_book": "Zechariah",
+    "created_at": "2025-09-11T13:32:17.988152"
+  },
+  {
+    "claim": "The Messiah will be born in the small town of Bethlehem Ephrathah.",
+    "category": "birth_circumstances",
+    "prophecy_reference": {
+      "book_name": "Micah",
+      "chapter": 5,
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 2,
+        "verse_start": 1,
+        "verse_end": 6,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Luke",
+        "chapter": 2,
+        "verse_start": 4,
+        "verse_end": 7,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Micah specifically named Bethlehem as the birthplace of Israel's future ruler. The Gospel of Matthew explicitly quotes this prophecy when the chief priests and scribes inform King Herod where the Messiah was to be born. The Gospel of Luke records the historical narrative of Joseph and Mary traveling to Bethlehem for the census, where Jesus was subsequently born, perfectly fulfilling Micah's prediction.",
+    "generated_from_book": "Micah",
+    "created_at": "2025-09-11T13:32:56.327069"
+  },
+  {
+    "claim": "The coming Ruler, though born in time, will be eternal in His origins, existing from everlasting.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Micah",
+      "chapter": 5,
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 1,
+        "verse_end": 3,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Colossians",
+        "chapter": 1,
+        "verse_start": 17,
+        "verse_end": 17,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "In the same verse that predicts His birthplace, Micah describes the Messiah as one 'whose goings forth are from of old, from everlasting.' This points to the Messiah's pre-existence and divine nature, a truth powerfully affirmed in the New Testament. The apostle John identifies Jesus as the eternal Word who was with God and was God from the beginning, while Paul states that Jesus 'is before all things, and in him all things hold together.'",
+    "generated_from_book": "Micah",
+    "created_at": "2025-09-11T13:32:56.466993"
+  },
+  {
+    "claim": "The Messiah will be a shepherd to His people, providing security and peace through the strength of God.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Micah",
+      "chapter": 5,
+      "verse_start": 4,
+      "verse_end": 5
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 10,
+        "verse_start": 11,
+        "verse_end": 14,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 13,
+        "verse_start": 20,
+        "verse_end": 20,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Micah foretells that the Messiah will 'stand and shepherd his flock in the strength of the LORD.' Jesus explicitly identifies Himself as the 'Good Shepherd' who knows His sheep and lays down His life for them, providing them with eternal security. The author of Hebrews likewise refers to Jesus as the 'great shepherd of the sheep,' affirming His role as the ultimate protector and provider for God's people.",
+    "generated_from_book": "Micah",
+    "created_at": "2025-09-11T13:32:56.607493"
+  },
+  {
+    "claim": "The Messiah's reign will establish a universal kingdom of peace, drawing all nations to learn God's ways and ending warfare.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Micah",
+      "chapter": 4,
+      "verse_start": 1,
+      "verse_end": 3
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Ephesians",
+        "chapter": 2,
+        "verse_start": 13,
+        "verse_end": 18,
+        "fulfillment_type": "inaugurated"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 21,
+        "verse_start": 3,
+        "verse_end": 4,
+        "fulfillment_type": "progressive"
+      }
+    ],
+    "fulfillment_explanation": "Micah envisioned a future day when the LORD's house would be established and nations would stream to it, seeking His law and turning their weapons into farming tools. This messianic kingdom was inaugurated by Christ, who broke down the dividing wall between Jew and Gentile, creating one new humanity and making peace through His blood. The prophecy will find its ultimate consummation in the new heaven and new earth, where God will dwell with His people and there will be no more sorrow or death.",
+    "generated_from_book": "Micah",
+    "created_at": "2025-09-11T13:32:56.795579"
+  },
+  {
+    "claim": "The Messiah, as the ultimate manifestation of God's character, will provide complete pardon for sin and transgression.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Micah",
+      "chapter": 7,
+      "verse_start": 18,
+      "verse_end": 19
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 John",
+        "chapter": 1,
+        "verse_start": 9,
+        "verse_end": 9,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Romans",
+        "chapter": 8,
+        "verse_start": 1,
+        "verse_end": 1,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Micah praises God as one who uniquely 'pardons iniquity' and 'casts all our sins into the depths of the sea.' This divine character of radical forgiveness is perfectly fulfilled and made accessible through the atoning work of Jesus Christ. Through His sacrifice, believers are cleansed from all unrighteousness and freed from condemnation, demonstrating God's delight in steadfast love as prophesied by Micah.",
+    "generated_from_book": "Micah",
+    "created_at": "2025-09-11T13:32:56.982761"
+  },
+  {
+    "claim": "A righteous King, a 'Branch' from David's lineage, will be raised up who will reign wisely and be called 'The LORD Our Righteousness'.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Jeremiah",
+      "chapter": 23,
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 32,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 1,
+        "verse_start": 30,
+        "verse_end": 30,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Jesus is presented as the promised King from David's lineage who establishes a new spiritual kingdom, reigning from heaven. The New Testament teaches that believers are made righteous not by their own works but through faith in Christ. Thus, Jesus fulfills the title 'The LORD Our Righteousness' by becoming the source of righteousness for His people.",
+    "generated_from_book": "Jeremiah",
+    "created_at": "2025-09-11T13:33:27.334337"
+  },
+  {
+    "claim": "God will establish a New Covenant with His people, an internal covenant written on their hearts that provides for the complete forgiveness of sins.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Jeremiah",
+      "chapter": 31,
+      "verse_start": 31,
+      "verse_end": 34
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 22,
+        "verse_start": 20,
+        "verse_end": 20,
+        "fulfillment_type": "inaugurated"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 8,
+        "verse_start": 8,
+        "verse_end": 12,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Jesus explicitly initiated this New Covenant at the Last Supper, identifying the cup with His blood as its seal. The book of Hebrews quotes Jeremiah's prophecy at length, explaining that Christ's high-priestly sacrifice is the basis for this superior covenant. This covenant offers true, final forgiveness and internal transformation by the Holy Spirit, just as Jeremiah foretold.",
+    "generated_from_book": "Jeremiah",
+    "created_at": "2025-09-11T13:33:27.522097"
+  },
+  {
+    "claim": "A voice of great weeping and lamentation will be heard in Ramah, with Rachel weeping for her children, symbolizing a profound national sorrow.",
+    "category": "birth_circumstances",
+    "prophecy_reference": {
+      "book_name": "Jeremiah",
+      "chapter": 31,
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 2,
+        "verse_start": 16,
+        "verse_end": 18,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The Gospel of Matthew sees a direct and tragic fulfillment of this prophecy in the events surrounding Jesus' birth. King Herod, in his attempt to kill the infant Messiah, ordered the slaughter of all male children in Bethlehem and its vicinity. Matthew quotes Jeremiah to describe the immense grief of the mothers in the region, which was historically associated with Rachel, the matriarch of Israel.",
+    "generated_from_book": "Jeremiah",
+    "created_at": "2025-09-11T13:33:27.715793"
+  },
+  {
+    "claim": "God will raise up a King from the line of David for His people to serve, and they will serve both the LORD and this Davidic King.",
+    "category": "genealogy_lineage",
+    "prophecy_reference": {
+      "book_name": "Jeremiah",
+      "chapter": 30,
+      "verse_start": 9,
+      "verse_end": 9
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 32,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 13,
+        "verse_start": 22,
+        "verse_end": 23,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy promised a future restoration under a Davidic ruler who would lead God's people in true worship. The New Testament identifies Jesus of Nazareth as this promised King, the Son of David who was raised up by God. Through Jesus, believers are brought into a relationship where they serve God by serving His anointed King, fulfilling the dual allegiance described by the prophet.",
+    "generated_from_book": "Jeremiah",
+    "created_at": "2025-09-11T13:33:27.810073"
+  },
+  {
+    "claim": "The Messiah will be the true Shepherd of God's people, gathering, feeding, and protecting them in contrast to the failed leaders of Israel.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Ezekiel",
+      "chapter": 34,
+      "verse_start": 23,
+      "verse_end": 24
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 10,
+        "verse_start": 11,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 13,
+        "verse_start": 20,
+        "verse_end": 20,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Ezekiel prophesied that God would establish one shepherd over His flock, His servant David. Jesus directly fulfills this by declaring, 'I am the good shepherd,' who lays down His life for the sheep and gathers them into one flock. The New Testament affirms this identity, calling Jesus the 'great shepherd of the sheep' who provides eternal security and care for His people.",
+    "generated_from_book": "Ezekiel",
+    "created_at": "2025-09-11T13:34:05.327588"
+  },
+  {
+    "claim": "The Messiah's work will bring about a new covenant, characterized by an internal spiritual transformation of God's people.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Ezekiel",
+      "chapter": 36,
+      "verse_start": 26,
+      "verse_end": 27
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "2 Corinthians",
+        "chapter": 5,
+        "verse_start": 17,
+        "verse_end": 17,
+        "fulfillment_type": "progressive"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 8,
+        "verse_start": 8,
+        "verse_end": 12,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Ezekiel's promise of God giving a new heart and a new spirit is fulfilled through the saving work of Jesus Christ. Through faith in Him, believers are made a 'new creation' and receive the Holy Spirit, who indwells and empowers them to live in obedience. This internal regeneration is the hallmark of the New Covenant that Jesus inaugurated with His blood.",
+    "generated_from_book": "Ezekiel",
+    "created_at": "2025-09-11T13:34:05.513903"
+  },
+  {
+    "claim": "The Messiah, a descendant of David, will reunite God's divided people into one nation under His single, everlasting rule.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Ezekiel",
+      "chapter": 37,
+      "verse_start": 24,
+      "verse_end": 25
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 10,
+        "verse_start": 16,
+        "verse_end": 16,
+        "fulfillment_type": "inaugurated"
+      },
+      {
+        "book_name": "Ephesians",
+        "chapter": 2,
+        "verse_start": 13,
+        "verse_end": 16,
+        "fulfillment_type": "inaugurated"
+      }
+    ],
+    "fulfillment_explanation": "The prophecy of one king, 'my servant David,' ruling over a unified people finds its fulfillment in Jesus. Christ breaks down the dividing wall of hostility between Jew and Gentile, creating one new humanity in Himself. He is the one shepherd who gathers all His sheep into a single flock, establishing a spiritual kingdom that transcends ethnic and national boundaries.",
+    "generated_from_book": "Ezekiel",
+    "created_at": "2025-09-11T13:34:05.699486"
+  },
+  {
+    "claim": "The Messiah is the rightful heir to the throne of Israel, and God will overturn kingdoms until He comes to claim His sovereign rule.",
+    "category": "genealogy_lineage",
+    "prophecy_reference": {
+      "book_name": "Ezekiel",
+      "chapter": 21,
+      "verse_start": 27,
+      "verse_end": 27
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 32,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 19,
+        "verse_start": 16,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Ezekiel's prophecy of overturning the crown until the one 'whose right it is' comes points directly to the Messiah's legitimate kingship. This is fulfilled in Jesus, whom the angel Gabriel declared would be given 'the throne of his father David' and would reign over an eternal kingdom. As the Son of David, Jesus is the ultimate and rightful King of Kings to whom all authority and dominion rightfully belong.",
+    "generated_from_book": "Ezekiel",
+    "created_at": "2025-09-11T13:34:05.887549"
+  },
+  {
+    "claim": "The Messiah, as God's Son, would be called out of Egypt, recapitulating the history of Israel.",
+    "category": "geographic_locations",
+    "prophecy_reference": {
+      "book_name": "Hosea",
+      "chapter": 11,
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 2,
+        "verse_start": 14,
+        "verse_end": 15,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "Hosea recalls God's calling of the nation of Israel, His son, out of Egypt. The Gospel of Matthew applies this verse directly to Jesus, seeing His temporary sojourn in Egypt and subsequent return as a fulfillment of this typological pattern. Jesus, as the true and perfect Son of God, relives and perfects the history of Israel, succeeding where the nation failed.",
+    "generated_from_book": "Hosea",
+    "created_at": "2025-09-11T13:34:32.543344"
+  },
+  {
+    "claim": "The Messiah will conquer death and the grave, providing a ransom for His people.",
+    "category": "resurrection_exaltation",
+    "prophecy_reference": {
+      "book_name": "Hosea",
+      "chapter": 13,
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 15,
+        "verse_start": 54,
+        "verse_end": 57,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 2,
+        "verse_start": 14,
+        "verse_end": 15,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Hosea prophesies a day when God will ransom His people from the power of Sheol and redeem them from death. The Apostle Paul directly alludes to this prophecy in his discourse on the resurrection, proclaiming that Christ's victory fulfills this hope. Through His death and resurrection, Jesus Christ destroyed the power of death, providing the ultimate ransom and ensuring the future resurrection of all who believe in Him.",
+    "generated_from_book": "Hosea",
+    "created_at": "2025-09-11T13:34:32.635773"
+  },
+  {
+    "claim": "The Messiah will rise from the dead on the third day.",
+    "category": "resurrection_exaltation",
+    "prophecy_reference": {
+      "book_name": "Hosea",
+      "chapter": 6,
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 15,
+        "verse_start": 3,
+        "verse_end": 4,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Luke",
+        "chapter": 24,
+        "verse_start": 46,
+        "verse_end": 46,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "In a call for Israel's repentance, Hosea uses the imagery of being revived and raised up 'on the third day.' This prophetic picture of national restoration serves as a powerful type foreshadowing the Messiah's literal, bodily resurrection. The New Testament confirms that Jesus 'was raised on the third day in accordance with the Scriptures,' making Him the firstfruits of the resurrection and the source of new life for His people.",
+    "generated_from_book": "Hosea",
+    "created_at": "2025-09-11T13:34:32.777083"
+  },
+  {
+    "claim": "The Messiah's redemptive work will include Gentiles, who will be called children of God.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Hosea",
+      "chapter": 1,
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Romans",
+        "chapter": 9,
+        "verse_start": 25,
+        "verse_end": 26,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "1 Peter",
+        "chapter": 2,
+        "verse_start": 10,
+        "verse_end": 10,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Hosea prophesied a future reversal where those who were not God's people would be called 'sons of the living God.' The Apostle Paul quotes this passage directly in Romans to demonstrate that God's plan of salvation has always included the Gentiles. Through the ministry of Jesus Christ, the gospel went out to all nations, creating one new people of God from both Jews and Gentiles, thus fulfilling this prophecy.",
+    "generated_from_book": "Hosea",
+    "created_at": "2025-09-11T13:34:32.917400"
+  },
+  {
+    "claim": "The Messiah will pour out the Holy Spirit on all people, inaugurating the New Covenant age.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Joel",
+      "chapter": 2,
+      "verse_start": 28,
+      "verse_end": 29
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 16,
+        "verse_end": 21,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 33,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "On the day of Pentecost, the Apostle Peter directly quoted Joel's prophecy to explain the miraculous outpouring of the Holy Spirit. Peter declared that the resurrected and exalted Jesus Christ, having received the promise from the Father, was the one pouring out the Spirit. This event marked the beginning of the church age, fulfilling the promise that God's indwelling presence would be given to all believers.",
+    "generated_from_book": "Joel",
+    "created_at": "2025-09-11T13:35:03.491414"
+  },
+  {
+    "claim": "Salvation will be universally available to all who call on the name of the Lord, a name identified with the Messiah.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Joel",
+      "chapter": 2,
+      "verse_start": 32,
+      "verse_end": 32
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 21,
+        "verse_end": 21,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Romans",
+        "chapter": 10,
+        "verse_start": 13,
+        "verse_end": 13,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The Apostle Paul, in his letter to the Romans, quotes this verse from Joel to establish the universal nature of the gospel. He explicitly applies the title 'Lord' (Kurios), used for Yahweh in the original prophecy, to Jesus Christ, making it clear that salvation comes through faith in Him. This fulfillment demonstrates that Jesus is the one whose name brings salvation to all who call upon it, without distinction.",
+    "generated_from_book": "Joel",
+    "created_at": "2025-09-11T13:35:03.678149"
+  },
+  {
+    "claim": "The Messiah will return as the righteous Judge of all nations.",
+    "category": "second_coming",
+    "prophecy_reference": {
+      "book_name": "Joel",
+      "chapter": 3,
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 25,
+        "verse_start": 31,
+        "verse_end": 32,
+        "fulfillment_type": "progressive"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 17,
+        "verse_start": 31,
+        "verse_end": 31,
+        "fulfillment_type": "progressive"
+      }
+    ],
+    "fulfillment_explanation": "Joel's vision of Yahweh sitting in judgment over the nations finds its ultimate fulfillment in the person of Jesus Christ. The New Testament reveals that the Father has entrusted all judgment to the Son. Jesus Himself taught that the Son of Man would return in glory to sit on His throne and judge all nations, an event that will occur at His second coming.",
+    "generated_from_book": "Joel",
+    "created_at": "2025-09-11T13:35:03.818534"
+  },
+  {
+    "claim": "The Messiah will come as the ultimate revelation of God to end a spiritual famine for His Word.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Amos",
+      "chapter": 8,
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 14,
+        "verse_end": 14,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "John",
+        "chapter": 6,
+        "verse_start": 35,
+        "verse_end": 35,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Amos foretold a time of intense spiritual famine, where people would desperately search for a word from God but find none. This condition is fulfilled and remedied by the coming of Jesus Christ, who is the living Word of God made flesh. As the Bread of Life, He alone satisfies the deep spiritual hunger for God's truth and presence, ending the famine for all who believe in Him.",
+    "generated_from_book": "Amos",
+    "created_at": "2025-09-11T13:35:37.076993"
+  },
+  {
+    "claim": "The Messiah will restore the fallen kingdom of David and will incorporate Gentiles into God's people.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Amos",
+      "chapter": 9,
+      "verse_start": 11,
+      "verse_end": 12
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 15,
+        "verse_start": 15,
+        "verse_end": 17,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Amos prophesied that God would restore the fallen dynasty of David, creating a renewed kingdom that would include all nations. At the Jerusalem Council, the apostle James quoted this prophecy directly to affirm that the inclusion of Gentiles into the Church through faith in Jesus was its direct fulfillment. Christ, the Son of David, rebuilds this spiritual kingdom, and His people are now drawn from every nation.",
+    "generated_from_book": "Amos",
+    "created_at": "2025-09-11T13:35:37.264550"
+  },
+  {
+    "claim": "The Messiah will execute divine judgment on all nations on the great 'Day of the Lord.'",
+    "category": "second_coming",
+    "prophecy_reference": {
+      "book_name": "Obadiah",
+      "chapter": 1,
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 17,
+        "verse_start": 31,
+        "verse_end": 31,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "2 Timothy",
+        "chapter": 4,
+        "verse_start": 1,
+        "verse_end": 1,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Obadiah prophesies the 'Day of the Lord' as a time of universal judgment where God will repay all nations for their deeds against His people. The New Testament reveals Jesus Christ as the one who will carry out this ultimate judgment. The Apostle Paul teaches that God has appointed a day to judge the world in righteousness through Jesus, whose authority as judge was validated by His resurrection.",
+    "generated_from_book": "Obadiah",
+    "created_at": "2025-09-11T13:36:11.893203"
+  },
+  {
+    "claim": "The Messiah, as the ultimate Savior, will establish the eternal Kingdom of God, which will originate from Zion.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Obadiah",
+      "chapter": 1,
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Hebrews",
+        "chapter": 12,
+        "verse_start": 22,
+        "verse_end": 24,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 11,
+        "verse_start": 15,
+        "verse_end": 15,
+        "fulfillment_type": "inaugurated"
+      }
+    ],
+    "fulfillment_explanation": "Obadiah's prophecy of 'saviors' on Mount Zion and the declaration that 'the kingdom shall be the LORD's' points to a final deliverance and divine rule. This is ultimately fulfilled in Jesus Christ, the one great Savior who establishes His kingdom from the spiritual, heavenly Zion, which is the church. His kingdom was inaugurated at His first coming and will be fully consummated at His return, when all earthly kingdoms become the kingdom of our Lord and of His Christ.",
+    "generated_from_book": "Obadiah",
+    "created_at": "2025-09-11T13:36:12.032549"
+  },
+  {
+    "claim": "The Messiah would be in the heart of the earth for three days and three nights, signifying His death and burial before His resurrection.",
+    "category": "resurrection_exaltation",
+    "prophecy_reference": {
+      "book_name": "Jonah",
+      "chapter": 1,
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 12,
+        "verse_start": 39,
+        "verse_end": 40,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Luke",
+        "chapter": 11,
+        "verse_start": 29,
+        "verse_end": 30,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "Jesus Christ Himself identifies Jonah's experience as a prophetic sign, or type, of His own death and resurrection. Just as Jonah was entombed in the belly of the great fish for three days and nights before being brought forth, Jesus was buried in the earth for three days before His victorious resurrection. This event served as the ultimate sign to His generation, confirming His identity and mission.",
+    "generated_from_book": "Jonah",
+    "created_at": "2025-09-11T13:36:58.690463"
+  },
+  {
+    "claim": "The Messiah would descend into death ('the pit') but would be brought back to life by God.",
+    "category": "resurrection_exaltation",
+    "prophecy_reference": {
+      "book_name": "Jonah",
+      "chapter": 2,
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 24,
+        "verse_end": 27,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 5,
+        "verse_start": 7,
+        "verse_end": 7,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Jonah's prayer from the belly of the fish, crying out from what he calls \"the pit,\" is a type of Christ's suffering and descent into death. Jonah's declaration, \"yet you brought up my life from the pit,\" prophetically pictures the Father's work in the resurrection of Jesus. As Peter preached in Acts, God did not abandon Christ's soul to Hades (the realm of the dead) but raised Him up, loosing the pangs of death.",
+    "generated_from_book": "Jonah",
+    "created_at": "2025-09-11T13:36:58.827345"
+  },
+  {
+    "claim": "The Messiah's message would be preached to and received by the Gentiles, leading to their repentance and inclusion in God's salvation.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Jonah",
+      "chapter": 3,
+      "verse_start": 5,
+      "verse_end": 10
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 12,
+        "verse_start": 41,
+        "verse_end": 41,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 10,
+        "verse_start": 44,
+        "verse_end": 45,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "Jonah's reluctant mission to the Gentile city of Nineveh resulted in their widespread repentance, foreshadowing the Messiah's mission to bring salvation beyond Israel. Jesus Himself contrasted the repentance of Nineveh with the unbelief of many in His own generation, highlighting that His ministry fulfilled this pattern on a grander scale. The book of Acts demonstrates this fulfillment as the gospel message powerfully extends to the Gentiles, bringing them into God's covenant people.",
+    "generated_from_book": "Jonah",
+    "created_at": "2025-09-11T13:36:58.967637"
+  },
+  {
+    "claim": "The coming of the Messiah will be heralded by messengers who proclaim the good news of peace and salvation.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Nahum",
+      "chapter": 1,
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Romans",
+        "chapter": 10,
+        "verse_start": 15,
+        "verse_end": 15,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Ephesians",
+        "chapter": 2,
+        "verse_start": 17,
+        "verse_end": 17,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "The Apostle Paul directly applies this prophetic imagery (via a parallel passage in Isaiah) to those who preach the gospel of Jesus Christ. The 'good news' and 'peace' Nahum foretold find their ultimate meaning in the salvation offered through Christ, who is our peace and whose arrival is the best news for humanity.",
+    "generated_from_book": "Nahum",
+    "created_at": "2025-09-11T13:37:30.532352"
+  },
+  {
+    "claim": "The Messiah, as God, will be a good stronghold and a secure refuge for all who trust in Him during times of trouble.",
+    "category": "character_attributes",
+    "prophecy_reference": {
+      "book_name": "Nahum",
+      "chapter": 1,
+      "verse_start": 7,
+      "verse_end": 7
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 11,
+        "verse_start": 28,
+        "verse_end": 30,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "John",
+        "chapter": 10,
+        "verse_start": 14,
+        "verse_end": 15,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Nahum describes the LORD as a good stronghold who knows and protects those who take refuge in Him. Jesus Christ perfectly embodies this divine attribute, personally inviting all who are weary to find rest in Him as their refuge. As the Good Shepherd, He knows His sheep intimately and provides them with ultimate security and peace.",
+    "generated_from_book": "Nahum",
+    "created_at": "2025-09-11T13:37:30.671133"
+  },
+  {
+    "claim": "The Messiah, as the divine Judge, will execute God's final and inescapable wrath upon the ungodly.",
+    "category": "second_coming",
+    "prophecy_reference": {
+      "book_name": "Nahum",
+      "chapter": 1,
+      "verse_start": 2,
+      "verse_end": 6
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "2 Thessalonians",
+        "chapter": 1,
+        "verse_start": 7,
+        "verse_end": 9,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 6,
+        "verse_start": 16,
+        "verse_end": 17,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Nahum's vivid description of God's avenging and powerful wrath against His enemies points toward the final day of judgment. The New Testament reveals that this judgment will be executed by the Lord Jesus Christ at His return. The question in Nahum, 'Who can endure the heat of his anger?' is answered in Revelation with the terror of those who face the 'wrath of the Lamb'.",
+    "generated_from_book": "Nahum",
+    "created_at": "2025-09-11T13:37:30.812487"
+  },
+  {
+    "claim": "The basis for righteousness before God in the Messiah's kingdom will be faith, not works of the law.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Habakkuk",
+      "chapter": 2,
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Romans",
+        "chapter": 1,
+        "verse_start": 17,
+        "verse_end": 17,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Galatians",
+        "chapter": 3,
+        "verse_start": 11,
+        "verse_end": 11,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 10,
+        "verse_start": 38,
+        "verse_end": 38,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The apostle Paul quotes Habakkuk 2:4 as a cornerstone of the gospel, establishing that righteousness before God comes through faith in Jesus Christ, not by observing the law. The author of Hebrews also uses this verse to define the very nature of the Christian life as one of persevering faith in the Messiah. This prophetic statement becomes the motto for the new covenant reality established by Jesus.",
+    "generated_from_book": "Habakkuk",
+    "created_at": "2025-09-11T13:38:16.413118"
+  },
+  {
+    "claim": "The Messiah's work will ultimately result in the knowledge of God's glory filling the entire earth.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Habakkuk",
+      "chapter": 2,
+      "verse_start": 14,
+      "verse_end": 14
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 28,
+        "verse_start": 18,
+        "verse_end": 20,
+        "fulfillment_type": "inaugurated"
+      },
+      {
+        "book_name": "Philippians",
+        "chapter": 2,
+        "verse_start": 10,
+        "verse_end": 11,
+        "fulfillment_type": "inaugurated"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy of a future, global saturation of God's glory was inaugurated by Christ through the Great Commission, sending His followers to spread the gospel to all nations. Its ultimate fulfillment awaits His return when every knee will bow and every tongue confess that Jesus Christ is Lord. The mission of the church is the means by which this prophecy is progressively fulfilled until its final consummation.",
+    "generated_from_book": "Habakkuk",
+    "created_at": "2025-09-11T13:38:16.600985"
+  },
+  {
+    "claim": "God's ultimate act of salvation for His people would be accomplished through His Anointed One, the Messiah.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Habakkuk",
+      "chapter": 3,
+      "verse_start": 13,
+      "verse_end": 13
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 2,
+        "verse_start": 11,
+        "verse_end": 11,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Acts",
+        "chapter": 4,
+        "verse_start": 12,
+        "verse_end": 12,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Habakkuk's prayer looks to God's future deliverance, which will come for the sake of His 'anointed' (Hebrew: Mashiach). The New Testament reveals Jesus as this very Anointed One, the Christ, sent by God for the explicit purpose of salvation. The angelic announcement at His birth and the apostolic preaching in Acts confirm that Jesus is the Christ, the Savior, through whom God redeems His people.",
+    "generated_from_book": "Habakkuk",
+    "created_at": "2025-09-11T13:38:16.744125"
+  },
+  {
+    "claim": "The coming one who saves God's people would possess a divine glory and power that is simultaneously revealed and veiled.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Habakkuk",
+      "chapter": 3,
+      "verse_start": 3,
+      "verse_end": 4
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 14,
+        "verse_end": 14,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 1,
+        "verse_start": 3,
+        "verse_end": 3,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Habakkuk's vision describes a powerful theophany where God's glory is both brilliantly radiant and mysteriously veiled ('there he veiled his power'). This finds its ultimate expression in the incarnation of Jesus Christ, who is the very radiance of God's glory, as stated in Hebrews. In Jesus, divine glory was made visible to humanity, yet it was also veiled in His human flesh, perfectly fulfilling this prophetic picture.",
+    "generated_from_book": "Habakkuk",
+    "created_at": "2025-09-11T13:38:16.886745"
+  },
+  {
+    "claim": "The Messiah will be the King of Israel, Yahweh Himself, dwelling in the midst of His people to remove judgment and bring salvation.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Zephaniah",
+      "chapter": 3,
+      "verse_start": 14,
+      "verse_end": 15
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 31,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 14,
+        "verse_end": 14,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Zephaniah prophesies that the LORD, the King of Israel, will dwell among His people to save them. The New Testament identifies Jesus as this divine King, whose incarnation is described as 'the Word became flesh and dwelt among us' and whose name, Immanuel, means 'God with us'. The angel Gabriel announced that Jesus would receive the throne of David and reign over an eternal kingdom, directly fulfilling the promise of the King being in their midst.",
+    "generated_from_book": "Zephaniah",
+    "created_at": "2025-09-11T13:38:49.798257"
+  },
+  {
+    "claim": "The Messiah's work will create a purified and humble remnant from all nations who will call upon and trust in the name of the Lord.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Zephaniah",
+      "chapter": 3,
+      "verse_start": 9,
+      "verse_end": 13
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 2,
+        "verse_start": 5,
+        "verse_end": 11,
+        "fulfillment_type": "progressive"
+      },
+      {
+        "book_name": "Galatians",
+        "chapter": 3,
+        "verse_start": 28,
+        "verse_end": 28,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Zephaniah foresees a day when God purifies a remnant and enables people from all nations to call upon Him in unity. This began to be fulfilled at Pentecost, when the Holy Spirit enabled the apostles to preach the gospel to people of many tongues, initiating the global mission of the church. The apostle Paul confirms this fulfillment, explaining that in Christ there is no ethnic distinction, as all believers are made one new people who take refuge in the name of Jesus.",
+    "generated_from_book": "Zephaniah",
+    "created_at": "2025-09-11T13:38:49.982727"
+  },
+  {
+    "claim": "The Messiah, the 'Desire of All Nations,' will personally enter the Temple, making its glory greater than any previous temple, and He will establish true peace.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Haggai",
+      "chapter": 2,
+      "verse_start": 7,
+      "verse_end": 9
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 2,
+        "verse_start": 27,
+        "verse_end": 32,
+        "fulfillment_type": "inaugurated"
+      },
+      {
+        "book_name": "John",
+        "chapter": 2,
+        "verse_start": 14,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Ephesians",
+        "chapter": 2,
+        "verse_start": 14,
+        "verse_end": 18,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "The glory of the second temple surpassed Solomon's not in its physical materials but in the personal presence of God Incarnate, Jesus Christ. Jesus, the one desired by all nations for salvation, came to this temple, filling it with a glory the world had never seen. He is also the one who establishes ultimate peace, being the Prince of Peace who reconciles humanity to God through His atoning work.",
+    "generated_from_book": "Haggai",
+    "created_at": "2025-09-11T13:39:25.841492"
+  },
+  {
+    "claim": "The Messiah, a descendant of David typified by Zerubbabel, will be God's chosen servant and authoritative representative, like a royal signet ring.",
+    "category": "genealogy_lineage",
+    "prophecy_reference": {
+      "book_name": "Haggai",
+      "chapter": 2,
+      "verse_start": 23,
+      "verse_end": 23
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 1,
+        "verse_start": 12,
+        "verse_end": 13,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "John",
+        "chapter": 6,
+        "verse_start": 27,
+        "verse_end": 27,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 1,
+        "verse_start": 1,
+        "verse_end": 2,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy elevates Zerubbabel, an ancestor in Jesus' lineage, to the status of God's 'signet ring'—a symbol of authority and favor, reversing a previous curse on the Davidic line. Zerubbabel serves as a type for Christ, the ultimate chosen servant and son of David. Jesus is the one upon whom God the Father has 'set his seal,' authenticating Him as the true bearer of all divine authority and the promised King.",
+    "generated_from_book": "Haggai",
+    "created_at": "2025-09-11T13:39:26.075384"
+  },
+  {
+    "claim": "The Lord, the messenger of the covenant, will come suddenly to His temple, preceded by a preparatory messenger.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Malachi",
+      "chapter": 3,
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Mark",
+        "chapter": 1,
+        "verse_start": 2,
+        "verse_end": 3,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "John",
+        "chapter": 2,
+        "verse_start": 13,
+        "verse_end": 17,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The gospels directly apply the first part of this prophecy to John the Baptist, who prepared the way for Jesus. The second part was fulfilled when Jesus, the Lord and the mediator of the New Covenant, entered the temple in Jerusalem and cleansed it, demonstrating his unique authority over God's house.",
+    "generated_from_book": "Malachi",
+    "created_at": "2025-09-11T13:40:11.819457"
+  },
+  {
+    "claim": "The Messiah will come as a divine purifier, refining His people like a refiner's fire.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Malachi",
+      "chapter": 3,
+      "verse_start": 2,
+      "verse_end": 3
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 3,
+        "verse_start": 11,
+        "verse_end": 12,
+        "fulfillment_type": "inaugurated"
+      },
+      {
+        "book_name": "1 Peter",
+        "chapter": 2,
+        "verse_start": 5,
+        "verse_end": 9,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy is inaugurated in Christ's first coming and will be consummated at His second. John the Baptist declared Jesus would baptize with the Holy Spirit and fire, a refining judgment. Through His atoning work, Christ purifies believers from sin, making them a 'holy priesthood' who can offer acceptable spiritual sacrifices, a spiritual fulfillment of refining the 'sons of Levi'.",
+    "generated_from_book": "Malachi",
+    "created_at": "2025-09-11T13:40:11.959832"
+  },
+  {
+    "claim": "The Messiah will appear as the 'Sun of Righteousness,' bringing healing and joy to God's people.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Malachi",
+      "chapter": 4,
+      "verse_start": 2,
+      "verse_end": 2
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 78,
+        "verse_end": 79,
+        "fulfillment_type": "thematic"
+      },
+      {
+        "book_name": "Matthew",
+        "chapter": 4,
+        "verse_start": 23,
+        "verse_end": 23,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Jesus fulfills this prophecy as the ultimate source of spiritual righteousness and healing. Zechariah's song in Luke's gospel describes the Messiah as the 'sunrise from on high' bringing light to those in darkness, a clear thematic link. Furthermore, Jesus' earthly ministry was characterized by countless acts of physical and spiritual healing, demonstrating the promised 'healing in his wings' for those who put their faith in Him.",
+    "generated_from_book": "Malachi",
+    "created_at": "2025-09-11T13:40:12.145558"
+  },
+  {
+    "claim": "A prophet in the spirit and power of Elijah will precede the coming of the Lord.",
+    "category": "prophetic_office",
+    "prophecy_reference": {
+      "book_name": "Malachi",
+      "chapter": 4,
+      "verse_start": 5,
+      "verse_end": 6
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 11,
+        "verse_start": 13,
+        "verse_end": 14,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Luke",
+        "chapter": 1,
+        "verse_start": 17,
+        "verse_end": 17,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "This prophecy is explicitly fulfilled by John the Baptist. The angel Gabriel announced to John's father that he would go before the Lord 'in the spirit and power of Elijah.' Jesus Himself later confirmed this identification, stating directly to His disciples that John the Baptist was the 'Elijah who was to come' to prepare the way for His ministry.",
+    "generated_from_book": "Malachi",
+    "created_at": "2025-09-11T13:40:12.283961"
+  },
+  {
+    "claim": "A future offspring of a woman will deliver a decisive, crushing blow to the serpent (Satan), though he himself will be wounded in the process.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Genesis",
+      "chapter": 3,
+      "verse_start": 15,
+      "verse_end": 15
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Galatians",
+        "chapter": 4,
+        "verse_start": 4,
+        "verse_end": 4,
+        "fulfillment_type": "progressive"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 2,
+        "verse_start": 14,
+        "verse_end": 14,
+        "fulfillment_type": "progressive"
+      },
+      {
+        "book_name": "1 John",
+        "chapter": 3,
+        "verse_start": 8,
+        "verse_end": 8,
+        "fulfillment_type": "progressive"
+      }
+    ],
+    "fulfillment_explanation": "This first gospel promise points to Christ as the 'seed of the woman' who came to destroy the works of the devil. Through His death and resurrection, Jesus decisively defeated Satan's power over sin and death, fulfilling the crushing of the serpent's head. The 'bruising of his heel' prophetically speaks to the suffering Christ endured on the cross to achieve this ultimate victory for humanity.",
+    "generated_from_book": "Genesis",
+    "created_at": "2025-09-11T13:40:37.326188"
+  },
+  {
+    "claim": "A future Priest-King will arise after the order of Melchizedek, distinct from and superior to the Aaronic priesthood.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Genesis",
+      "chapter": 14,
+      "verse_start": 18,
+      "verse_end": 20
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Hebrews",
+        "chapter": 5,
+        "verse_start": 6,
+        "verse_end": 10,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 7,
+        "verse_start": 1,
+        "verse_end": 17,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "Melchizedek serves as a type of Christ, who is both a King and a Priest of God Most High. The book of Hebrews explains that Jesus is a high priest forever in the order of Melchizedek, not the temporary Levitical order. Like Melchizedek, Jesus holds the dual office of king ('King of righteousness') and priest, and His eternal priesthood is based on His indestructible life, not physical descent.",
+    "generated_from_book": "Genesis",
+    "created_at": "2025-09-11T13:40:37.511371"
+  },
+  {
+    "claim": "A specific descendant of Abraham will be the source of salvation and blessing for all nations on earth.",
+    "category": "genealogy_lineage",
+    "prophecy_reference": {
+      "book_name": "Genesis",
+      "chapter": 22,
+      "verse_start": 18,
+      "verse_end": 18
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 3,
+        "verse_start": 25,
+        "verse_end": 26,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Galatians",
+        "chapter": 3,
+        "verse_start": 16,
+        "verse_end": 16,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The New Testament explicitly identifies the singular 'seed' of Abraham as Christ. Through Jesus's atoning work, the blessing of salvation and reconciliation with God is extended to all nations, Jews and Gentiles alike. This fulfills the global scope of the promise that the entire world would be blessed through Abraham's most important descendant.",
+    "generated_from_book": "Genesis",
+    "created_at": "2025-09-11T13:40:37.699373"
+  },
+  {
+    "claim": "The royal authority and ruling power will belong to the tribe of Judah, culminating in a specific, rightful ruler to whom all nations will give their obedience.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Genesis",
+      "chapter": 49,
+      "verse_start": 10,
+      "verse_end": 10
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Luke",
+        "chapter": 3,
+        "verse_start": 33,
+        "verse_end": 33,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 7,
+        "verse_start": 14,
+        "verse_end": 14,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 5,
+        "verse_start": 5,
+        "verse_end": 5,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "Jesus's genealogy confirms His descent from the tribe of Judah, establishing his legal right to the throne of David. He is identified as the 'Lion of the tribe of Judah,' the rightful King to whom the scepter belongs. The prophecy's reference to the 'obedience of the nations' points to Christ's universal kingdom, where people from every tribe and tongue will one day bow to Him as Lord.",
+    "generated_from_book": "Genesis",
+    "created_at": "2025-09-11T13:40:37.839574"
+  },
+  {
+    "claim": "During His sacrificial death, not one of the Messiah's bones would be broken, signifying His perfection as the true Passover Lamb.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Exodus",
+      "chapter": 12,
+      "verse_start": 46,
+      "verse_end": 46
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 33,
+        "verse_end": 36,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 5,
+        "verse_start": 7,
+        "verse_end": 7,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The regulations for the original Passover lamb stipulated that none of its bones were to be broken. The Gospel of John explicitly notes that when the Roman soldiers came to break the legs of those crucified, they found Jesus already dead and did not break His legs. John states this happened \"so that the Scripture would be fulfilled, 'Not one of his bones will be broken.'\"",
+    "generated_from_book": "Exodus",
+    "created_at": "2025-09-11T13:41:24.067548"
+  },
+  {
+    "claim": "The Messiah would be the true bread from heaven, providing eternal spiritual life and sustenance to God's people.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Exodus",
+      "chapter": 16,
+      "verse_start": 4,
+      "verse_end": 4
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 6,
+        "verse_start": 32,
+        "verse_end": 35,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "John",
+        "chapter": 6,
+        "verse_start": 48,
+        "verse_end": 51,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "God miraculously provided manna, or \"bread from heaven,\" to physically sustain the Israelites in the wilderness. Jesus directly identified Himself as the fulfillment of this sign, declaring, \"I am the bread of life.\" He contrasted the temporary physical sustenance of manna with the eternal spiritual life that He alone provides to all who believe in Him.",
+    "generated_from_book": "Exodus",
+    "created_at": "2025-09-11T13:41:24.207342"
+  },
+  {
+    "claim": "The Messiah would be the spiritual Rock, who, when struck, would provide the living water of the Holy Spirit for the salvation of His people.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Exodus",
+      "chapter": 17,
+      "verse_start": 6,
+      "verse_end": 6
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 10,
+        "verse_start": 4,
+        "verse_end": 4,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "John",
+        "chapter": 7,
+        "verse_start": 37,
+        "verse_end": 39,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "When the Israelites were thirsty, God commanded Moses to strike a rock, and water miraculously flowed out to give them life. The Apostle Paul identifies this rock as a type of Christ, stating, \"and the Rock was Christ.\" Just as the physical rock was struck to provide life-giving water, Christ was struck on the cross to provide the \"living water\" of the Holy Spirit, which gives eternal life to all who come to Him.",
+    "generated_from_book": "Exodus",
+    "created_at": "2025-09-11T13:41:24.346677"
+  },
+  {
+    "claim": "The Messiah would be the manifest presence of God, guiding His people and serving as the Light of the World.",
+    "category": "divine_nature",
+    "prophecy_reference": {
+      "book_name": "Exodus",
+      "chapter": 13,
+      "verse_start": 21,
+      "verse_end": 22
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 8,
+        "verse_start": 12,
+        "verse_end": 12,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 9,
+        "verse_end": 9,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "The pillar of cloud by day and fire by night was the visible sign of God's presence, leading Israel through the wilderness. Jesus fulfills this by being Immanuel, \"God with us,\" the ultimate manifestation of God's presence. He declared, \"I am the light of the world,\" promising that whoever follows Him will not walk in darkness but will have the light of life, thus serving as the divine guide for His people.",
+    "generated_from_book": "Exodus",
+    "created_at": "2025-09-11T13:41:24.485155"
+  },
+  {
+    "claim": "The Messiah would serve as the ultimate and eternal High Priest, mediating between God and humanity.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Exodus",
+      "chapter": 28,
+      "verse_start": 1,
+      "verse_end": 1
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Hebrews",
+        "chapter": 4,
+        "verse_start": 14,
+        "verse_end": 16,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 7,
+        "verse_start": 23,
+        "verse_end": 27,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The establishment of Aaron and his sons as priests created a temporary, hereditary office to mediate for Israel. The book of Hebrews explains that this entire system was a shadow of the reality found in Christ, our \"great high priest.\" Unlike the Aaronic priests who were sinful and mortal, Jesus is the perfect, sinless, and eternal High Priest who offered Himself as the once-for-all sacrifice to secure permanent access to God.",
+    "generated_from_book": "Exodus",
+    "created_at": "2025-09-11T13:41:24.672183"
+  },
+  {
+    "claim": "The unblemished sin offering, whose life was given as a substitute for the sinner, foreshadows the Messiah's perfect, substitutionary death for sin.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Leviticus",
+      "chapter": 4,
+      "verse_start": 27,
+      "verse_end": 31
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "2 Corinthians",
+        "chapter": 5,
+        "verse_start": 21,
+        "verse_end": 21,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 9,
+        "verse_start": 13,
+        "verse_end": 14,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The law required an animal without defect to be offered for unintentional sins, demonstrating the principle of substitutionary atonement. The New Testament reveals this pointed to Christ, who was without sin yet was made to be sin for us. His perfect sacrifice provides a genuine cleansing from sin that the blood of animals could only foreshadow.",
+    "generated_from_book": "Leviticus",
+    "created_at": "2025-09-11T13:42:02.688843"
+  },
+  {
+    "claim": "The High Priest's solitary entry into the Most Holy Place on the Day of Atonement foreshadows the Messiah's unique role as the sole mediator who enters heaven with His own blood to atone for sin.",
+    "category": "priestly_work",
+    "prophecy_reference": {
+      "book_name": "Leviticus",
+      "chapter": 16,
+      "verse_start": 15,
+      "verse_end": 17
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Hebrews",
+        "chapter": 9,
+        "verse_start": 11,
+        "verse_end": 12,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "Hebrews",
+        "chapter": 9,
+        "verse_start": 24,
+        "verse_end": 24,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "Only the High Priest could enter God's presence with the blood of the sacrifice to make atonement, and he did so alone. This typifies Jesus Christ, our great High Priest, who single-handedly accomplished our salvation. He entered the true sanctuary of heaven, not with animal blood but with His own, securing our eternal redemption.",
+    "generated_from_book": "Leviticus",
+    "created_at": "2025-09-11T13:42:02.909660"
+  },
+  {
+    "claim": "The scapegoat, which symbolically carried the sins of the nation into the wilderness, foreshadows the Messiah's work of completely removing the guilt of His people.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Leviticus",
+      "chapter": 16,
+      "verse_start": 20,
+      "verse_end": 22
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 29,
+        "verse_end": 29,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "1 Peter",
+        "chapter": 2,
+        "verse_start": 24,
+        "verse_end": 24,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The scapegoat demonstrated the removal of sin from God's people, carrying their iniquities far away. This vividly portrays the work of Jesus, the Lamb of God, who takes away the sin of the world. He bore our sins in His body on the cross, effectively removing our transgressions and their guilt from us forever.",
+    "generated_from_book": "Leviticus",
+    "created_at": "2025-09-11T13:42:03.109873"
+  },
+  {
+    "claim": "The command to sacrifice an unblemished Passover lamb foreshadows the Messiah as the perfect Lamb of God, sacrificed to save His people from judgment.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Leviticus",
+      "chapter": 23,
+      "verse_start": 5,
+      "verse_end": 5
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 5,
+        "verse_start": 7,
+        "verse_end": 7,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 29,
+        "verse_end": 29,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The Passover lamb, perfect and without blemish, was slain so that its blood would protect Israel from the angel of death. This is a powerful type of Jesus, whom Paul calls 'our Passover lamb' who has been sacrificed. His crucifixion at Passover time fulfilled this picture, and His blood saves all who trust in Him from eternal judgment.",
+    "generated_from_book": "Leviticus",
+    "created_at": "2025-09-11T13:42:03.304616"
+  },
+  {
+    "claim": "A future King, symbolized by a star and a scepter, will arise from the lineage of Israel to conquer His enemies and establish His rule.",
+    "category": "kingdom_reign",
+    "prophecy_reference": {
+      "book_name": "Numbers",
+      "chapter": 24,
+      "verse_start": 17,
+      "verse_end": 17
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Matthew",
+        "chapter": 2,
+        "verse_start": 1,
+        "verse_end": 2,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Revelation",
+        "chapter": 22,
+        "verse_start": 16,
+        "verse_end": 16,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Balaam's prophecy of a 'Star' from Jacob was fulfilled when the Magi were led by a star to the birthplace of Jesus, the newborn king. The 'scepter' signifies the royal authority of the Messiah, which Jesus holds as the descendant of David whose kingdom will have no end. Jesus later identifies Himself as 'the bright Morning Star,' claiming the full identity of this promised ruler.",
+    "generated_from_book": "Numbers",
+    "created_at": "2025-09-11T13:42:39.083780"
+  },
+  {
+    "claim": "The Messiah would be lifted up as an object of faith, providing salvation from death for all who look to Him.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Numbers",
+      "chapter": 21,
+      "verse_start": 8,
+      "verse_end": 9
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 3,
+        "verse_start": 14,
+        "verse_end": 15,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "Jesus explicitly identified the bronze serpent lifted on a pole as a type, or foreshadowing, of His own crucifixion. Just as the Israelites were physically saved from the serpent's venom by looking in faith at the bronze serpent, all humanity can be spiritually saved from sin and death by looking to Christ 'lifted up' on the cross. This act of faith in Him brings eternal life.",
+    "generated_from_book": "Numbers",
+    "created_at": "2025-09-11T13:42:39.225083"
+  },
+  {
+    "claim": "The Messiah would be the spiritual rock providing life-giving water and sustenance for His people.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Numbers",
+      "chapter": 20,
+      "verse_start": 11,
+      "verse_end": 11
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "1 Corinthians",
+        "chapter": 10,
+        "verse_start": 4,
+        "verse_end": 4,
+        "fulfillment_type": "typological"
+      },
+      {
+        "book_name": "John",
+        "chapter": 7,
+        "verse_start": 37,
+        "verse_end": 38,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The Apostle Paul directly identifies the rock that gave water to Israel in the wilderness as a type of Christ. Jesus fulfills this type by offering 'living water,' which He identifies as the Holy Spirit, to all who believe in Him. Just as the physical rock sustained God's people, Christ provides the spiritual sustenance necessary for eternal life.",
+    "generated_from_book": "Numbers",
+    "created_at": "2025-09-11T13:42:39.366443"
+  },
+  {
+    "claim": "The Messiah, as the true Passover Lamb, would be sacrificed without having any of His bones broken.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Numbers",
+      "chapter": 9,
+      "verse_start": 12,
+      "verse_end": 12
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "John",
+        "chapter": 19,
+        "verse_start": 33,
+        "verse_end": 36,
+        "fulfillment_type": "typological"
+      }
+    ],
+    "fulfillment_explanation": "The law concerning the Passover lamb, that none of its bones were to be broken, prefigured the sacrifice of Christ. The Gospel of John records the literal fulfillment of this when the Roman soldiers, intending to break the legs of those crucified, found Jesus already dead and so did not break His bones. John explicitly cites this as a fulfillment of Scripture, confirming Jesus as the perfect Passover Lamb sacrificed for the sins of the world.",
+    "generated_from_book": "Numbers",
+    "created_at": "2025-09-11T13:42:39.507622"
+  },
+  {
+    "claim": "God will raise up a great Prophet, like Moses, who will mediate a new covenant and speak God's authoritative word, whom the people must obey.",
+    "category": "prophetic_office",
+    "prophecy_reference": {
+      "book_name": "Deuteronomy",
+      "chapter": 18,
+      "verse_start": 15,
+      "verse_end": 19
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Acts",
+        "chapter": 3,
+        "verse_start": 22,
+        "verse_end": 23,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "John",
+        "chapter": 1,
+        "verse_start": 45,
+        "verse_end": 45,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "The New Testament clearly identifies Jesus as this promised Prophet. In his sermon, Peter directly quotes Deuteronomy 18 and applies it to Jesus, commanding the people to listen to Him. Jesus' role as the ultimate mediator of the New Covenant and the very Word of God made flesh perfectly fulfills Moses' prophecy of a prophet who would be like him, yet far greater.",
+    "generated_from_book": "Deuteronomy",
+    "created_at": "2025-09-11T13:43:11.750454"
+  },
+  {
+    "claim": "The one executed by being hung on a tree is considered cursed by God, foreshadowing the Messiah bearing the curse of the law for humanity's sin.",
+    "category": "death_crucifixion",
+    "prophecy_reference": {
+      "book_name": "Deuteronomy",
+      "chapter": 21,
+      "verse_start": 22,
+      "verse_end": 23
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Galatians",
+        "chapter": 3,
+        "verse_start": 13,
+        "verse_end": 13,
+        "fulfillment_type": "direct"
+      }
+    ],
+    "fulfillment_explanation": "The Apostle Paul directly quotes this verse from Deuteronomy to explain the theological significance of Jesus' crucifixion. He argues that Christ redeemed believers from the law's curse by becoming a curse in their place through His death on the cross (a 'tree'). This fulfillment reveals the substitutionary nature of the Messiah's atonement, where He bore the divine penalty for sin.",
+    "generated_from_book": "Deuteronomy",
+    "created_at": "2025-09-11T13:43:11.934021"
+  },
+  {
+    "claim": "God will provoke Israel to jealousy by showing favor to a 'foolish nation,' predicting the inclusion of the Gentiles into God's plan of salvation through the Messiah.",
+    "category": "ministry_mission",
+    "prophecy_reference": {
+      "book_name": "Deuteronomy",
+      "chapter": 32,
+      "verse_start": 21,
+      "verse_end": 21
+    },
+    "fulfillment_references": [
+      {
+        "book_name": "Romans",
+        "chapter": 10,
+        "verse_start": 19,
+        "verse_end": 19,
+        "fulfillment_type": "direct"
+      },
+      {
+        "book_name": "Romans",
+        "chapter": 11,
+        "verse_start": 11,
+        "verse_end": 11,
+        "fulfillment_type": "thematic"
+      }
+    ],
+    "fulfillment_explanation": "Paul explicitly quotes this prophecy in his letter to the Romans to explain the expansion of the gospel to the Gentiles. The acceptance of the gospel by non-Jews fulfilled God's ancient promise to use another people to stir Israel to jealousy and, ultimately, to salvation. This reveals that the Messiah's mission was always intended to have a global scope, creating one new people of God from both Jews and Gentiles.",
+    "generated_from_book": "Deuteronomy",
+    "created_at": "2025-09-11T13:43:12.075680"
+  }
+]
