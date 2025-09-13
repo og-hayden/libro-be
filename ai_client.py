@@ -415,7 +415,7 @@ Provide specific examples and avoid generalizations. Your analysis should be sch
         
         try:
             response = self.client.models.generate_content(
-                model='gemini-2.0-flash-exp',
+                model='gemini-2.5-flash',
                 contents=f"""
 Biblical Passage: {verse_reference}
 Text: {verse_text}
