@@ -335,7 +335,6 @@ Provide your theological analysis with relevant cross-references.
                         system_instruction=system_instruction,
                         response_mime_type="application/json",
                         response_schema=TheologicalAnalysis,
-                        thinking_config=types.ThinkingConfig(thinking_budget=0)  # Disable thinking for faster response
                     )
                 )
                 
@@ -496,7 +495,6 @@ Provide a thoughtful answer that addresses the question directly, supported by r
                         system_instruction=system_instruction,
                         response_mime_type="application/json",
                         response_schema=TheologicalAnalysis,
-                        thinking_config=types.ThinkingConfig(thinking_budget=0)  # Disable thinking for faster response
                     )
                 )
                 
